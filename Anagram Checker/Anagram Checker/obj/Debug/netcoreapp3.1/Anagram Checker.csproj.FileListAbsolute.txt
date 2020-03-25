@@ -1,0 +1,13 @@
+C:\Users\Jesse\OneDrive\School\Visual C#\Practice\Anagram Checker\Anagram Checker\bin\Debug\netcoreapp3.1\Anagram Checker.exe
+C:\Users\Jesse\OneDrive\School\Visual C#\Practice\Anagram Checker\Anagram Checker\bin\Debug\netcoreapp3.1\Anagram Checker.deps.json
+C:\Users\Jesse\OneDrive\School\Visual C#\Practice\Anagram Checker\Anagram Checker\bin\Debug\netcoreapp3.1\Anagram Checker.runtimeconfig.json
+C:\Users\Jesse\OneDrive\School\Visual C#\Practice\Anagram Checker\Anagram Checker\bin\Debug\netcoreapp3.1\Anagram Checker.runtimeconfig.dev.json
+C:\Users\Jesse\OneDrive\School\Visual C#\Practice\Anagram Checker\Anagram Checker\bin\Debug\netcoreapp3.1\Anagram Checker.dll
+C:\Users\Jesse\OneDrive\School\Visual C#\Practice\Anagram Checker\Anagram Checker\bin\Debug\netcoreapp3.1\Anagram Checker.pdb
+C:\Users\Jesse\OneDrive\School\Visual C#\Practice\Anagram Checker\Anagram Checker\obj\Debug\netcoreapp3.1\Anagram Checker.csprojAssemblyReference.cache
+C:\Users\Jesse\OneDrive\School\Visual C#\Practice\Anagram Checker\Anagram Checker\obj\Debug\netcoreapp3.1\Anagram Checker.csproj.CoreCompileInputs.cache
+C:\Users\Jesse\OneDrive\School\Visual C#\Practice\Anagram Checker\Anagram Checker\obj\Debug\netcoreapp3.1\Anagram Checker.AssemblyInfoInputs.cache
+C:\Users\Jesse\OneDrive\School\Visual C#\Practice\Anagram Checker\Anagram Checker\obj\Debug\netcoreapp3.1\Anagram Checker.AssemblyInfo.cs
+C:\Users\Jesse\OneDrive\School\Visual C#\Practice\Anagram Checker\Anagram Checker\obj\Debug\netcoreapp3.1\Anagram Checker.dll
+C:\Users\Jesse\OneDrive\School\Visual C#\Practice\Anagram Checker\Anagram Checker\obj\Debug\netcoreapp3.1\Anagram Checker.pdb
+C:\Users\Jesse\OneDrive\School\Visual C#\Practice\Anagram Checker\Anagram Checker\obj\Debug\netcoreapp3.1\Anagram Checker.genruntimeconfig.cache
